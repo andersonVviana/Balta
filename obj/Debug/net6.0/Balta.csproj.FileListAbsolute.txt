@@ -1,0 +1,15 @@
+/home/andersonviana/Documentos/Projetos/Balta/bin/Debug/net6.0/Balta
+/home/andersonviana/Documentos/Projetos/Balta/bin/Debug/net6.0/Balta.deps.json
+/home/andersonviana/Documentos/Projetos/Balta/bin/Debug/net6.0/Balta.runtimeconfig.json
+/home/andersonviana/Documentos/Projetos/Balta/bin/Debug/net6.0/Balta.dll
+/home/andersonviana/Documentos/Projetos/Balta/bin/Debug/net6.0/ref/Balta.dll
+/home/andersonviana/Documentos/Projetos/Balta/bin/Debug/net6.0/Balta.pdb
+/home/andersonviana/Documentos/Projetos/Balta/obj/Debug/net6.0/Balta.csproj.AssemblyReference.cache
+/home/andersonviana/Documentos/Projetos/Balta/obj/Debug/net6.0/Balta.GeneratedMSBuildEditorConfig.editorconfig
+/home/andersonviana/Documentos/Projetos/Balta/obj/Debug/net6.0/Balta.AssemblyInfoInputs.cache
+/home/andersonviana/Documentos/Projetos/Balta/obj/Debug/net6.0/Balta.AssemblyInfo.cs
+/home/andersonviana/Documentos/Projetos/Balta/obj/Debug/net6.0/Balta.csproj.CoreCompileInputs.cache
+/home/andersonviana/Documentos/Projetos/Balta/obj/Debug/net6.0/Balta.dll
+/home/andersonviana/Documentos/Projetos/Balta/obj/Debug/net6.0/ref/Balta.dll
+/home/andersonviana/Documentos/Projetos/Balta/obj/Debug/net6.0/Balta.pdb
+/home/andersonviana/Documentos/Projetos/Balta/obj/Debug/net6.0/Balta.genruntimeconfig.cache
